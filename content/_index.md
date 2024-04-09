@@ -102,7 +102,7 @@ companylogos:
   display: true
   heading: Home to Leading Logistics Businesses
   subheading: Businesses established in Lincolnshire’s Logistics sector include
-  scrollbarclr: '#aacf8b'
+  scrollbarclr: '#f5d23f'
   companies:
    - name: BA Systems
      logo: bae-systems-logo.png
