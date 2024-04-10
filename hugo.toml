@@ -10,3 +10,4 @@ title = 'Invest in UK Logistics, Greater Lincolnshire provides logistics busines
     path = "github.com/crescolincs/lincs-theme"
 
 #Update hugo modules (in our case the theme)$> hugo mod get -u
+#dev site https://dev.logistics-b3m.pages.dev
