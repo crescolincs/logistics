@@ -4,7 +4,8 @@ socialImage: 'logistics-header'
 sector: logistics
 seoDescription: >-
               Lincolnshire is at the heart of the UK’s Logistics sector, enabling businesses to achieve step-change improvements in productivity, sustainability and performance. For Logistics companies investing in the UK, Lincolnshire presents a unique location opportunity for business expansion, relocation, start-up and innovation.
-gabbledegookprefooterimage: green-half-grad.png             
+ctaarrowclrdark: '#af0000'
+ctaarrowclrlight: '#f5d23f'          
 
 hero:
   display: true
