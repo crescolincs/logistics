@@ -91,7 +91,7 @@ offerfeatures:
 
            For investing Logistics businesses, this means access to the expertise, skills, supply chains and supporting infrastructure required to reduce investment project costs, risks and timeframes, and to support ongoing growth, R&D and innovation.
      ctatext: about Lincolnshire's Logistics industry clusters                    
-Logisticsbusinesssupport:
+support:
   display: true
   bgcolor: '#252159'
   heading: Support for Your Logistics Sector Business Investment
