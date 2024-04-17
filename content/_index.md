@@ -201,30 +201,38 @@ companylogos:
   subheading: Businesses established in Lincolnshire’s Logistics sector include
   scrollbarclr: '#f5d23f'
   companies:
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png 
+   - name: investor company logo
+     logo: logistics-logo-1.png
+   - name: investor company logo
+     logo: logistics-logo-2.png
+   - name: investor company logo
+     logo: logistics-logo-3.png
+   - name: investor company logo
+     logo: logistics-logo-4.png
+   - name: investor company logo
+     logo: logistics-logo-5.png
+   - name: investor company logo
+     logo: logistics-logo-6.png
+   - name: investor company logo
+     logo: logistics-logo-7.png
+   - name: investor company logo
+     logo: logistics-logo-8.png
+   - name: investor company logo
+     logo: logistics-logo-9.png
+   - name: investor company logo
+     logo: logistics-logo-10.png
+   - name: investor company logo
+     logo: logistics-logo-11.png
+   - name: investor company logo
+     logo: logistics-logo-12.png
+   - name: investor company logo
+     logo: logistics-logo-13.png
+   - name: investor company logo
+     logo: logistics-logo-14.png
+   - name: investor company logo
+     logo: logistics-logo-15.png
+   - name: investor company logo
+     logo: logistics-logo-16.png  
 
 support:
   display: true
