@@ -68,20 +68,20 @@ marketopportunity:
      display: false
      img: 
   stats: 
-   - name: UK Consumers
-     size: 67.7
-     measure: million
+   - name: Refocusing
+     size: Resilience
+     measure: shorter supply chains
      clrscheme: light
      textcolor: sector-dark
 
-   - name: UK Market Value
-     size: £254
-     measure: billion P.A.
+   - name: Transformation
+     size: Industry 4.0
+     measure: Digitalisation & Automation
      clrscheme: mid
      textcolor: white
-   - name: UK Market Growth
-     size: +37%
-     measure: 2010-2019
+   - name: Sustainability
+     size: Net Zero
+     measure: UK Emissions by 2050
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK logistics market opportunity 
