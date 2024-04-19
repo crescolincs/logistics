@@ -11,9 +11,7 @@ hero:
   display: true
   heading: "Invest in Lincolnshire's Logistics Sector:  Key Benefits and Opportunities"
   blurb: >-
-        Lincolnshire offers strategic logistics hub locations with direct access to high-growth industries and markets, combined uniquely with world-class digitalisation and automation solutions.
-
-        For investing logistics businesses, Lincolnshire’s unique location benefits can deliver the competitive edge required for success in an era of market disruption and opportunity. 
+        For investing logistics and distribution businesses, Lincolnshire combines strategic logistics hub locations with direct access to world-class digitalisation and automation solutions - delivering the competitive edge required for success in an era of market disruption and opportunity.
   heroImg: 'logistics-header'
 
 investmentopportunity:
@@ -49,25 +47,22 @@ marketopportunity:
   display: true
   heading: "The UK Logistics Market Opportunity"
   lead: >-
-      The UK’s logistics and industrial sectors are experiencing a period of significant disruption, creating profitable investment opportunities for expanding logistics businesses.
-
-
-      Lincolnshire’s distinctive combination of major logistics hubs, multimodal connectivity and Industry 4.0 expertise makes it the ideal location for logistics businesses seeking to profit from growth and change in the UK market.
+      Lincolnshire’s distinctive combination of major logistics hubs, multimodal connectivity, and Industry 4.0 expertise makes it the ideal location for logistics businesses seeking to profit from transformation and growth in the UK’s logistics and industrial sectors.
       
 
       Key drivers include:
 
   benefits:
    - benefit: 
-     feature: A renewed focus on shorter, more resilient supply chains, and reshoring, following Covid-19, the UK’s exit from the EU, and international security concerns.
+     feature: A renewed focus on shorter, more resilient supply chains, following recent economic shocks and international security concerns.
    - benefit: 
      feature: E-commerce growth, creating opportunities for distribution businesses.
    - benefit: 
-     feature: The need for sustainability, driven by consumers, government and regulators, requiring innovation in logistics technologies and supply chain models.
+     feature: The need for improved sustainability, requiring innovation in logistics technologies and supply chain models.
    - benefit: 
-     feature: Opportunities in growth sectors including agrifood, renewable energy, and low carbon manufacturing, driven by innovation and decarbonisation.
+     feature: Growth in sectors including agrifood, renewable energy, and low carbon manufacturing, driven by innovation and decarbonisation.
    - benefit: 
-     feature: Warehouse digitalisation and automation, driven by Industry 4.0 technologies and labour market constraints, creating opportunities for innovative technology and distribution businesses.
+     feature: Warehouse digitalisation and automation, creating opportunities for innovative technology and distribution businesses.
 
   statsimage:
      display: false
@@ -89,79 +84,72 @@ marketopportunity:
      measure: 2010-2019
      clrscheme: dark
      textcolor:  sector-light     
-  ctatext: about the Lincolnshire logistics market opportunity
+  ctatext: about the UK logistics market opportunity 
 offerfeatures:
   display: true
   features:
    - heading: Lincolnshire’s Logistics Market Growth Opportunities
      image: logistics-1.jpg
      lead: >-
-          Lincolnshire is at the forefront of high-growth, future-focused industry sectors including agrifood, low carbon energy and industry, and advanced engineering and manufacturing, presenting opportunities for logistics businesses to partner with large-scale, expanding and innovating companies.
+          Lincolnshire is at the forefront of high-growth, future-focused industry sectors including agrifood, low carbon energy and industry, and advanced engineering and manufacturing, presenting a range of partnering opportunities for logistics businesses..
      body: >-
-           - Lincolnshire is a key location within the UK Food Valley. The area’s £254 billion agrifood sector encompasses agriculture (11% of England’s food production), major centres of food and seafood manufacturing, and the UK’s leading food and horticulture logistics hub.
+           - Lincolnshire is a key location within the UK Food Valley - the country’s heartland for food production, food and seafood manufacturing, horticulture, and food logistics.
 
-           - Lincolnshire is leading the UK’s transition to Net Zero emissions, through major strategic investments in industrial decarbonisation, offshore renewable energy, and the circular economy. For logistics companies, potential opportunities exist to partner with low carbon energy and industrial businesses for services including the transportation and storage of feedstocks and products, and offshore logistics.
+           - Lincolnshire is leading the UK’s transition to Net Zero emissions, through major strategic investments in industrial decarbonisation, offshore renewable energy, and the circular economy - creating extensive opportunities for logistics businesses.
 
-           - Direct access to renewable energy, notably from offshore wind, will potentially enable logistics businesses to develop net zero supply chains, including food cool chains.
-     ctatext: about Lincolnshire’s Logistics Market Growth Opportunities
+           - Direct access to renewable energy, notably from offshore wind, will potentially enable Lincolnshire-based logistics businesses to develop net zero supply chains, including food cool chains.
+     ctatext: about Lincolnshire’s logistics market growth opportunity 
    - heading: UK-leading Logistics Hubs and Industry Clusters
      image: logistics-2.jpg
      lead: >-
-          LIncolnshire is home to the UK’s busiest trading gateway and the country’s largest food logistics hub - providing the infrastructure, expertise, supply chains and market opportunities required for logistics business growth..
+          Lincolnshire is home to the UK’s busiest trading gateway and the country’s largest food and horticultural logistics hub - providing the infrastructure, expertise, supply chains and market opportunities required for logistics business growth.
      body: >-
-           - Centred on the ports of Grimsby and Immingham (the UK’s busiest trading gateway), the South Humber port logistics hub incorporates extensive ports infrastructure and services, multimodal freight terminals and logistics providers. The hub supports the area’s key industries, including energy, offshore renewables, process manufacturing, and agrifood.
+           - The South Humber port logistics hub (including Immingham and Grimsby) offers extensive ports infrastructure and services, and multimodal freight terminals. Key sectors served include energy, offshore renewables, process manufacturing, and agrifood.
 
-           - Sites within the Humber Freeport can potentially offer valuable tax and customs benefits - attracting major industrial investments and creating logistics growth opportunities.
+           - Sites within the Humber Freeport can potentially offer valuable tax and customs benefits - attracting major industrial investments and creating logistics growth opportunities. 
 
-           - The South Lincolnshire logistics hub is strategically located within the UK’s leading food production area. The hub includes Spalding - the UK’s largest food logistics hub and a major centre for the distribution of flowers and plants - and the Port of Boston - an important, growing agrifoods port that also serves wider industrial and manufacturing sectors.
-     ctatext: about Lincolnshire’s logistics hubs and industry clusters 
+           - Focused on Spalding and the Port of Boston, the South Lincolnshire logistics hub includes the UK’s largest food logistics hub and a leading centre for horticultural distribution.
+     ctatext: about Lincolnshire’s logistics hubs and industry clusters
    - heading: Fast UK & Global Market Access for Logistics Businesses 
      image: logistics-3.jpg
      lead: >-
-          Lincolnshire is at the forefront of high-growth, future-focused industry sectors including agrifood, low carbon energy and industry, and advanced engineering and manufacturing, presenting opportunities for logistics businesses to partner with large-scale, expanding and innovating companies.
+          Lincolnshire is strategically located to enable fast, multimodal access to UK and international markets
      body: >-
            - Lincolnshire’s central Great Britain location (north-south) enables fast access by road to the UK’s major population centres, distribution hubs and freight terminals.
  
-           - The ports of Immingham and Grimsby offer frequent, international sea freight services, including operations to major European ports and offshore renewables hubs, and deep-sea feeder operations to Rotterdam.
+           - The ports of Immingham and Grimsby offer frequent sea freight services to European ports and offshore renewables hubs, and deep-sea feeder operations to Rotterdam.
            
            - The Port of Boston operates feeder services from the ports of Rotterdam and Amsterdam, and serves UK markets for containers and bulk foods.
 
-           - Airports accessible within 2 hours include East Midlands (the UK’s no.2 air cargo hub), Birmingham and Leeds-Bradford. Within Lincolnshire, Humberside Airport’s Amsterdam Schiphol feeder service (KLM/SkyTeam) enables onward passenger connections to 800 global destinations.
+           - Airports accessible within 2 hours include East Midlands (the UK’s no.2 air cargo hub), Birmingham and Leeds-Bradford. Within Lincolnshire, Humberside Airport’s Amsterdam Schiphol hub-feeder service enables access to hundreds of global destinations.
 
            - Lincolnshire’s major ports and logistics hubs are rail freight connected. Both Grimsby and Immingham ports offer W12-gauge access for ‘high cube’ containers.
      ctatext: about Lincolnshire’s fast UK and global market access 
    - heading: Advanced Logistics and Supply Chain Research and Technologies
      image: logistics-4.jpg
      lead: >-
-          Greater Lincolnshire provides investing businesses with direct access to leading edge, multi- disciplinary logistics, supply chain, digitalisation and automation research and technologies.
+          Lincolnshire provides investing logistics businesses with direct access to leading-edge logistics, supply chain, digitalisation and automation research and technologies, enabling improvements in productivity, sustainability, and supply chain resilience.
      body: >-
-           - The University of Lincoln is a leader in Industry 4.0 R&D. Technologies including artificial intelligence (AI), big data analytics, and robotics and automation are applied to key business challenges including more sustainable, intelligent transport and logistics; supply chain digitalisation; and more energy-efficient refrigeration.
+           - The University of Lincoln is a leader in Industry 4.0 R&D. Technologies including AI and intelligent robotics are applied to key challenges including more sustainable, intelligent transport and logistics; supply chain digitalisation; and energy-efficient refrigeration.
  
-           - Grimsby Institute’s Food Refrigeration and Process Engineering Research Centre (FRPERC) specialises in food refrigeration research and consultancy, working closely with industry to implement best practice.
+           - Research and consultancy from Grimsby Institute’s Food Refrigeration and Process Engineering Research Centre (FRPERC) enables industry to implement best practice.
            
-           - The University of Hull Logistics Institute is a world-renowned research centre, collaborating with industry to address real-world challenges including supply chain optimisation, digitalisation and decarbonisation.
-           
-           
-           For investing logistics businesses, Lincolnshire’s research and technology strengths can help to deliver improved supply chain resilience, productivity, and sustainability.
+           - The University of Hull’s world-renowned Logistics Institute collaborates with industry to address real-world challenges including supply chain optimisation, digitalisation and decarbonisation.
 
      ctatext: about advanced logistics and supply chain research and technologies in Lincolnshire                             
    - heading: Logistics Sector Workforce, Education and Skills
      image: logistics-5.jpg
      lead: >-
-          Lincolnshire can provide logistics businesses with access to an available, high-quality workforce, across the skills spectrum.
+          Logistics businesses investing in Lincolnshire can access an available, high-quality workforce across the skills spectrum, enabling fast recruitment and project delivery, business transformation, and improved productivity.
      body: >-
-           - Lincolnshire’s university and industrial strengths enable access to technical workers with the engineering, digital, and high-tech skills required for warehouse process digitalisation, automation and maintenance.
+           - Lincolnshire’s university and industrial strengths enable access to technical workers with the engineering and high-tech skills required for warehouse process digitalisation, automation and maintenance.
  
-           - Lincolnshire’s highly developed ports and logistics clusters provide access to a sector workforce with high levels of experience and expertise across a range of specialisations.
+           - Lincolnshire’s highly developed ports and logistics clusters provide access to a workforce with high levels of expertise across a range of logistics specialisations.
            
-           - Lincolnshire offers large numbers of workers in technical skills classifications of relevance to logistics businesses, with workforce concentrations up to 2.5X the Great Britain average
+           - Lincolnshire offers large numbers of workers in key ‘elementary’ and technically skilled classifications of relevance to logistics businesses, with high workforce concentrations versus the Great Britain average. 
  
-           - Lincolnshire has 49,800 workers in ‘Elementary Occupations’, and a higher percentage of workers in this key warehousing classification than the national average.
+           - Lincolnshire’s average labour costs offer substantial savings versus the national average.
 
-           - Average sector labour costs offer substantial savings versus the national average.
-
-           
-           For businesses investing in Lincolnshire, the area’s workforce advantages can enable fast recruitment and project delivery, business transformation, and improved productivity.
      ctatext: about Lincolnshire’s logistics workforce, education and skills 
    - heading: Sites and Properties for Logistics Businesses in Lincolnshire
      image: logistics-6.jpg
@@ -193,11 +181,11 @@ logisticssupport:
   image: green-grad.png
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
-  ctatext: about support for investing businesses from Invest Lincolnshire
+  ctatext: about support for investing businesses from Invest Lincolnshire 
 companylogos:
   display: true
   heading: Home to Leading Logistics Businesses
-  subheading: Businesses established in Lincolnshire’s Logistics sector include
+  subheading: 'Businesses established in Lincolnshire’s Logistics sector include:'
   scrollbarclr: '#f5d23f'
   companies:
    - name: investor company logo
