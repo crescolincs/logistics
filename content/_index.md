@@ -172,7 +172,6 @@ offerfeatures:
            
            - Fast access to key UK manufacturing and logistics hubs, ports and airports
            
-           For businesses investing in Lincolnshire, the area’s workforce advantages can enable fast recruitment and project delivery, business transformation, and improved productivity.
      ctatext: about sites and properties for logistics businesses in Lincolnshire      
 logisticssupport:
   display: true
@@ -229,7 +228,7 @@ support:
   ctatext: about support for investing businesses from Invest Lincolnshire
   image: yellow-grad
 articles:
-  display: true
+  display: false
   heading: Articles for Logistics in Lincolnshire
 sectorCTA:
   display: true
