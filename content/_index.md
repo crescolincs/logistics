@@ -76,7 +76,7 @@ marketopportunity:
 
    - name: Transformation
      size: Industry 4.0
-     measure: Digitalisation & Automation
+     measure: Automation
      clrscheme: mid
      textcolor: white
    - name: Sustainability
