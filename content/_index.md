@@ -254,6 +254,8 @@ sectorCTA:
   hiddenformfields:
      - field: brochure
        value: logistics
+     - field: page
+       value: logistics        
      - field: cc
        value: dklongley@clarity-strategies   
   footerimg: orange-half-grad 
