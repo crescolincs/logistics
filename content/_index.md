@@ -250,6 +250,12 @@ sectorCTA:
     - highlight: Location & sector data sets
     - highlight: Support for investing businesses
   contentscolour: 'text-dark-blue'
+  formhandler: brochurerequest
+  hiddenformfields:
+     - field: brochure
+       value: logistics
+     - field: cc
+       value: dklongley@clarity-strategies   
   footerimg: orange-half-grad 
 ---
 
