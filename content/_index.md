@@ -17,7 +17,7 @@ hero:
 investmentopportunity:
   display: true
   heading: 'The Lincolnshire Logistics Investment Opportunity'
-  subheading: 'For investing Logistics businesses, Lincolnshire offers:'
+  subheading: 'For investing logistics businesses, Lincolnshire offers:'
   offer:
    - icon: 'market.svg'
      title: 'Market Opportunity'
@@ -53,16 +53,16 @@ marketopportunity:
       Key drivers include:
 
   benefits:
-   - benefit: 
-     feature: A renewed focus on shorter, more resilient supply chains, following recent economic shocks and international security concerns.
-   - benefit: 
-     feature: E-commerce growth, creating opportunities for distribution businesses.
-   - benefit: 
-     feature: The need for improved sustainability, requiring innovation in logistics technologies and supply chain models.
-   - benefit: 
-     feature: Growth in sectors including agrifood, renewable energy, and low carbon manufacturing, driven by innovation and decarbonisation.
-   - benefit: 
-     feature: Warehouse digitalisation and automation, creating opportunities for innovative technology and distribution businesses.
+   - benefit: A renewed focus on shorter, more resilient supply chains,
+     feature:  following recent economic shocks and international security concerns.
+   - benefit: E-commerce growth,
+     feature:  creating opportunities for distribution businesses.
+   - benefit: The need for improved sustainability,
+     feature:  requiring innovation in logistics technologies and supply chain models.
+   - benefit: Growth in key industry sectors
+     feature: including agrifood, renewable energy, and low carbon manufacturing, driven by innovation and decarbonisation.
+   - benefit: Warehouse digitalisation and automation,
+     feature:  creating opportunities for innovative technology and distribution businesses.
 
   statsimage:
      display: false
@@ -91,7 +91,7 @@ offerfeatures:
    - heading: Lincolnshire’s Logistics Market Growth Opportunities
      image: logistics-1.jpg
      lead: >-
-          Lincolnshire is at the forefront of high-growth, future-focused industry sectors including agrifood, low carbon energy and industry, and advanced engineering and manufacturing, presenting a range of partnering opportunities for logistics businesses..
+          Lincolnshire is at the forefront of high-growth, future-focused industry sectors including agrifood, low carbon energy and industry, and advanced engineering and manufacturing, presenting a range of partnering opportunities for logistics businesses.
      body: >-
            - Lincolnshire is a key location within the UK Food Valley - the country’s heartland for food production, food and seafood manufacturing, horticulture, and food logistics.
 
@@ -113,7 +113,7 @@ offerfeatures:
    - heading: Fast UK & Global Market Access for Logistics Businesses 
      image: logistics-3.jpg
      lead: >-
-          Lincolnshire is strategically located to enable fast, multimodal access to UK and international markets
+          Lincolnshire is strategically located to enable fast, multimodal access to UK and international markets.
      body: >-
            - Lincolnshire’s central Great Britain location (north-south) enables fast access by road to the UK’s major population centres, distribution hubs and freight terminals.
  
@@ -160,7 +160,7 @@ offerfeatures:
      body: >-
            - Ready-to-go sites for built-to-suit prime properties
  
-           - Sites with Freeport tax or customs incentives for investing businesses
+           - Sites with Freeport tax or customs incentives for eligible investing businesses
            
            - Port-adjacent sites serving sectors including offshore renewables
  
@@ -204,7 +204,7 @@ companylogos:
    - name: investor company logo
      logo: logistics-logo-8.png
    - name: investor company logo
-     logo: logistics-logo-9.png
+     logo: logistics-logo-9.png?1
    - name: investor company logo
      logo: logistics-logo-10.png
    - name: investor company logo
