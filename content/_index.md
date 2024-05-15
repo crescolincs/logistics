@@ -253,7 +253,7 @@ sectorCTA:
   formhandler: brochurerequest
   hiddenformfields:
      - field: brochure
-       value: logistics
+       value: invest-lincs-logistics
      - field: page
        value: logistics        
      - field: cc
