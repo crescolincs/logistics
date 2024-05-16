@@ -69,19 +69,22 @@ marketopportunity:
      img: 
   stats: 
    - name: Refocusing
-     size: Resilience
+     size: Resilient
      measure: shorter supply chains
+     when:
      clrscheme: light
      textcolor: sector-dark
 
    - name: Transformation
      size: Industry 4.0
      measure: Automation
+     when:
      clrscheme: mid
      textcolor: white
    - name: Sustainability
      size: Net Zero
-     measure: UK Emissions by 2050
+     measure: UK Emissions 
+     when: by 2050
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK logistics market opportunity 
