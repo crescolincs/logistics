@@ -1,5 +1,6 @@
 languageCode = 'en-uk'
 title = 'Invest in UK Logistics, Greater Lincolnshire provides logistics businesses with direct access to high-growth market opportunities, combined uniquely with world-class digitalisation and automation solutions.'
+baseURL = 'https://logistics.investlincolnshire.co.uk/'
 
 [params]
   contactdomain = 'https://investlincolnshire.co.uk/'
