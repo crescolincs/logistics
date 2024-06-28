@@ -34,7 +34,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Featured Post Position (1 to 4)", name: "weight", widget: "number", value_type: "int", min: 0, max: 4, step: 1, required: false}  
       - {label: "Social Media Image", name: "socialimage", widget: "image", required: false}            
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "select", options: ["Battery Supply Chain","Circular Economy","Location","Sustainable Fuels"], multiple: true,required: false}      
+      - {label: "Tags", name: "tags", widget: "select", options: ["Transport","Warehousing"], multiple: true,required: false}      
       - {label: "Sources", name: "sources", widget: "list", fields: [
               {label: "Ref No", name: "refno", widget: "number", required: false},
               {label: "Source", name: "source", widget: "string", required: false},
