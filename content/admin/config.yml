@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: crescolincs/engineering-manufacturing
+  repo: crescolincs/logistics
   branch: main
   base_url: https://smc.agrifood.pages.dev
   auth_endpoint: /api/auth
