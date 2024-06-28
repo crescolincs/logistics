@@ -50,7 +50,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Social Image", name: "socialImage", widget: "image" , required: false, hint: An image that will be picked up by social media platforms}
-          - {label: "Sector", name: "sector", widget: "hidden", default: Agrifood}
+          - {label: "Sector", name: "sector", widget: "hidden", default: logistics}
           - {label: "Description(SEO)", name: "seoDescription", widget: "text", required: false, hint: A description/synopsis of the content to help search engines undestand the value to your audience}
           - {label: "CTA Arrow Dark", name: "ctaarrowclrdark", widget: "hidden", default: '#252159'}
           - {label: "CTA Arrow Light", name: "ctaarrowclrlight", widget: "hidden", default: '#90a6ca'}
