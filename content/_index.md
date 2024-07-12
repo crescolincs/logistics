@@ -1,6 +1,6 @@
 ---
 title: 'Invest in the Logistics sector.Invest in Lincolnshire'
-socialImage: 'logistics-header'
+socialImage: 'https://res.cloudinary.com/lincs/image/upload/logistics-header'
 sector: logistics
 seoDescription: >-
               Lincolnshire offers strategic logistics hub locations with direct access to high-growth industries and markets, combined uniquely with world-class digitalisation and automation solutions.
@@ -12,34 +12,34 @@ hero:
   heading: "Invest in Lincolnshire's Logistics Sector:  Key Benefits and Opportunities"
   blurb: >-
         For investing logistics and distribution businesses, Lincolnshire combines strategic logistics hub locations with direct access to world-class digitalisation and automation solutions - delivering the competitive edge required for success in an era of market disruption and opportunity.
-  heroImg: 'logistics-header'
+  heroImg: 'https://res.cloudinary.com/lincs/image/upload/logistics-header'
 
 investmentopportunity:
   display: true
   heading: 'The Lincolnshire Logistics Investment Opportunity'
   subheading: 'For investing logistics businesses, Lincolnshire offers:'
   offer:
-   - icon: 'market.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/market.svg'
      title: 'Market Opportunity'
      description: >-
           Growth opportunities driven by decarbonisation, supply chain security, e-commerce, and automation, in key sectors including agrifood and low carbon energy/industry. 
-   - icon: 'business.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/business.svg'
      title: 'Industry Hubs'
      description: 'A strategic UK location with major port logistics hubs and advanced industry clusters.'          
-   - icon: 'connectivity.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/connectivity.svg'
      title: 'Multimodal Connectivity'
      description: 'Fast, multimodal access to UK & global markets'
-   - icon: 'research.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/research.svg'
      title: 'Research & Innovation'
      description: >-
        World-class Industry 4.0 expertise, enabling logistics automation and digitalisation.    
-   - icon: 'workforce.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/workforce.svg'
      title: 'Specialist Workforce'
      description: A large, specialist, cost-effective logistics workforce and sector-focused skills providers.           
-   - icon: 'property.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/property.svg'
      title: 'Sites & Properties'
      description: 'Available, cost-effective logistics sites and properties, including options with potential Freeport incentives.'
-   - icon: 'support.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/support.svg'
      title: 'Dedicated Support'
      description: 'Dedicated support for investing businesses'    
              
@@ -91,7 +91,7 @@ offerfeatures:
   display: true
   features:
    - heading: Lincolnshire’s Logistics Market Growth Opportunities
-     image: logistics-1.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/logistics-1.jpg
      lead: >-
           Lincolnshire is at the forefront of high-growth, future-focused industry sectors including agrifood, low carbon energy and industry, and advanced engineering and manufacturing, presenting a range of partnering opportunities for logistics businesses.
      body: >-
@@ -102,7 +102,7 @@ offerfeatures:
            - Direct access to renewable energy, notably from offshore wind, will potentially enable Lincolnshire-based logistics businesses to develop net zero supply chains, including food cool chains.
      ctatext: about Lincolnshire’s logistics market growth opportunity 
    - heading: UK-leading Logistics Hubs and Industry Clusters
-     image: logistics-2.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/logistics-2.jpg
      lead: >-
           Lincolnshire is home to the UK’s busiest trading gateway and the country’s largest food and horticultural logistics hub - providing the infrastructure, expertise, supply chains and market opportunities required for logistics business growth.
      body: >-
@@ -113,7 +113,7 @@ offerfeatures:
            - Focused on Spalding and the Port of Boston, the South Lincolnshire logistics hub includes the UK’s largest food logistics hub and a leading centre for horticultural distribution.
      ctatext: about Lincolnshire’s logistics hubs and industry clusters
    - heading: Fast UK & Global Market Access for Logistics Businesses 
-     image: logistics-3.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/logistics-3.jpg
      lead: >-
           Lincolnshire is strategically located to enable fast, multimodal access to UK and international markets.
      body: >-
@@ -128,7 +128,7 @@ offerfeatures:
            - Lincolnshire’s major ports and logistics hubs are rail freight connected. Both Grimsby and Immingham ports offer W12-gauge access for ‘high cube’ containers.
      ctatext: about Lincolnshire’s fast UK and global market access 
    - heading: Advanced Logistics and Supply Chain Research and Technologies
-     image: logistics-4.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/logistics-4.jpg
      lead: >-
           Lincolnshire provides investing logistics businesses with direct access to leading-edge logistics, supply chain, digitalisation and automation research and technologies, enabling improvements in productivity, sustainability, and supply chain resilience.
      body: >-
@@ -140,7 +140,7 @@ offerfeatures:
 
      ctatext: about advanced logistics and supply chain research and technologies in Lincolnshire                             
    - heading: Logistics Sector Workforce, Education and Skills
-     image: logistics-5.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/logistics-5.jpg
      lead: >-
           Logistics businesses investing in Lincolnshire can access an available, high-quality workforce across the skills spectrum, enabling fast recruitment and project delivery, business transformation, and improved productivity.
      body: >-
@@ -154,7 +154,7 @@ offerfeatures:
 
      ctatext: about Lincolnshire’s logistics workforce, education and skills 
    - heading: Sites and Properties for Logistics Businesses in Lincolnshire
-     image: logistics-6.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/logistics-6.jpg
      lead: >-
           Lincolnshire offers a wide range of high-quality, cost-effective logistics and distribution sites and properties, in strategic hub locations that enable fast access to UK and international markets.
 
@@ -179,7 +179,7 @@ logisticssupport:
   display: true
   bgcolor: '#252159'
   heading: Support for Your Logistics Sector Business Investment
-  image: green-grad.png
+  image: https://res.cloudinary.com/lincs/image/upload/green-grad.png
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire 
@@ -190,37 +190,37 @@ companylogos:
   scrollbarclr: '#f5d23f'
   companies:
    - name: investor company logo
-     logo: logistics-logo-1.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-1.png
    - name: investor company logo
-     logo: logistics-logo-2.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-2.png
    - name: investor company logo
-     logo: logistics-logo-3.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-3.png
    - name: investor company logo
-     logo: logistics-logo-4.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-4.png
    - name: investor company logo
-     logo: logistics-logo-5.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-5.png
    - name: investor company logo
-     logo: logistics-logo-6.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-6.png
    - name: investor company logo
-     logo: logistics-logo-7.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-7.png
    - name: investor company logo
-     logo: logistics-logo-8.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-8.png
    - name: investor company logo
-     logo: logistics-logo-9.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-9.png?1
    - name: investor company logo
-     logo: logistics-logo-10.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-10.png
    - name: investor company logo
-     logo: logistics-logo-11.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-11.png
    - name: investor company logo
-     logo: logistics-logo-12.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-12.png
    - name: investor company logo
-     logo: logistics-logo-13.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-13.png
    - name: investor company logo
-     logo: logistics-logo-14.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-14.png
    - name: investor company logo
-     logo: logistics-logo-15.png
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-15.png
    - name: investor company logo
-     logo: logistics-logo-16.png  
+     logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-16.png  
 
 support:
   display: true
@@ -238,7 +238,7 @@ sectorCTA:
   headingcolor: mid
   buttoncolor: '#e75a13'
   buttonhover: '#af0000'
-  image: logistics-brochure.png
+  image: https://res.cloudinary.com/lincs/image/upload/logistics-brochure.png
   heading: Get the Data on Lincolnshire as a Logistics Business Location
   lead: >-
      Lincolnshire’s Logistics sector Business Location Guide provides essential information and data for companies researching and evaluation Lincolnshire as a potential investment location, including:                                       
@@ -260,7 +260,7 @@ sectorCTA:
        value: logistics        
      - field: cc
        value: dklongley@clarity-strategies   
-  footerimg: orange-half-grad 
+  footerimg: https://res.cloudinary.com/lincs/image/upload/orange-half-grad 
 ---
 
 
