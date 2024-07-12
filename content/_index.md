@@ -71,14 +71,13 @@ marketopportunity:
    - name: Refocusing
      size: Resilient
      measure: shorter supply chains
-     when:
+     when: " "
      clrscheme: light
      textcolor: sector-dark
-
    - name: Transformation
      size: Industry 4.0
      measure: Automation
-     when:
+     when: " "
      clrscheme: mid
      textcolor: white
    - name: Sustainability
