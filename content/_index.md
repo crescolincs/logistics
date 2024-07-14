@@ -211,7 +211,7 @@ companylogos:
   companies:
     - name: Able UK company logo
       logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-1.png
-    - name: investor company logo
+    - name: Associated British Ports company logo
       logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-2.png
     - name: investor company logo
       logo: https://res.cloudinary.com/lincs/image/upload/logistics-logo-3.png
