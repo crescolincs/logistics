@@ -262,7 +262,7 @@ sectorCTA:
     - field: page
       value: logistics
     - field: cc
-      value: dklongley@clarity-strategies
+      value: investment@lincolnshire.gov.uk
   footerimg: https://res.cloudinary.com/lincs/image/upload/orange-half-grad
   buttonhover: "#af0000"
   buttoncolor: "#e75a13"
