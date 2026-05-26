@@ -28,7 +28,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # all The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Sector", name: "sector", widget: "hidden", default: "logistics"}
-      - {label: "Type", name: "type", widget: "hidden", default: "article"}            
+      - {label: "Content Type", name: "type", widget: "hidden", default: "article"}          
       - {label: "Publish Date", name: "date", widget: "datetime", default: "{{now}}"} 
       - {label: "Intro Blurb", name: "description", widget: "text", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
@@ -44,7 +44,6 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Url", name: "url", widget: "string", required: false },
               {label: "Url Title", name: "urltitle", widget: "string", required: false }],required: false}
       - {label: "SEO Description", name: "SEODesc", widget: "text", required: false}                    
-      - {label: "Content Type", name: "type", widget: "hidden", default: article}
       - {label: "Layout Template", name: "layout", widget: "hidden", default: post} 
   - name: "pages"
     label: "Pages"
