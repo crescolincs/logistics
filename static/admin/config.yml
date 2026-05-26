@@ -4,6 +4,7 @@ backend:
   branch: main
   base_url: https://smc.agrifood.pages.dev #url for Oauth app on Github Developer settings
   auth_endpoint: /api/auth
+  show_preview_links: true
 media_library:
   name: cloudinary
   config:
